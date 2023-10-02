@@ -1,0 +1,14 @@
+D:\Github\C_plus\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+D:\Github\C_plus\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+D:\Github\C_plus\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+D:\Github\C_plus\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+D:\Github\C_plus\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+D:\Github\C_plus\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C_plus\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Github\C_plus\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+D:\Github\C_plus\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Github\C_plus\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+D:\Github\C_plus\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+D:\Github\C_plus\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+D:\Github\C_plus\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+D:\Github\C_plus\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
